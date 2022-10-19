@@ -1,4 +1,4 @@
-# transfer-ftw
+# Transfer-FTW
 
 <h2> Installations </h2>
 
