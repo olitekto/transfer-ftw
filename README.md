@@ -29,7 +29,7 @@
 <h3> Python</h3>
 <b> Initiate transfer </b>
 <b> POST method </b>
-<p> http://127.0.0.1:80/initiateTransfer </p>
+<p> [LOCALHOST+URL]/initiateTransfer </p>
 <b> Check status transder </b>
 <b> GET method </b>
 <p> http://127.0.0.1:80/checkTransfer?id=9898 </p>
