@@ -1,6 +1,6 @@
 # transfer-ftw
 
-<h1> Installations </h1>
+<h2> Installations </h2>
 
 <h3> Python</h3>
 
