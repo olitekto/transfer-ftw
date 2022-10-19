@@ -32,7 +32,7 @@
 <b> Initiate transfer </b>
 <b> POST method </b>
 <p> [LOCALHOST:PORT]/initiateTransfer </p>
-<b> Check status transder </b>
+<b> Check status transfer </b>
 <b> GET method </b>
 <p> [LOCALHOST:PORT]/checkTransfer?id=9898 </p>
 
@@ -40,7 +40,7 @@
 <b> Initiate transfer </b>
 <b> POST method </b>
 <p> [LOCALHOST:PORT]/initiateTransfer </p>
-<b> Check status transder </b>
+<b> Check status transfer </b>
 <b> GET method </b>
 <p> [LOCALHOST:PORT]/checkStatus?id=9898 </p>
 
@@ -48,7 +48,7 @@
 <b> Initiate transfer </b>
 <b> POST method </b>
 <p> [LOCALHOST:PORT]/initiateTransfer </p>
-<b> Check status transder </b>
+<b> Check status transfer </b>
 <b> GET method </b>
 <p> [LOCALHOST:PORT]/checkStatus/4000 </p>
 
@@ -56,7 +56,7 @@
 <b> Initiate transfer </b>
 <b> POST method </b>
 <p> [LOCALHOST:PORT]/initiateTransfer </p>
-<b> Check status transder </b>
+<b> Check status transfer </b>
 <b> GET method </b>
 <p> [LOCALHOST:PORT]/checkStatus?id=9898 </p>
 
