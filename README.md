@@ -17,7 +17,14 @@
 <p> Run using Tomcat </p>
 
 <h2> Usage </h2>
-
+{
+"account_bank": "044",
+"account_number": "0690000044",
+"amount": 500,
+"narration": "New transfer",
+"currency": "NGN",
+"beneficiary_name": "Kwame Adew"
+}
 <h3> Python</h3>
 <b> Initiate transfer </b>
 <b> POST method </b>
