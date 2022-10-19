@@ -6,7 +6,6 @@
 
 <p> Install dependencies using pip </p>
 <p> pip install -r requirements.txt </p>
-<br>
 <h3> PHP</h3>
 <p> paste files in MAMP </p>
 <br>
