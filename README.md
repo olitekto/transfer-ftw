@@ -9,11 +9,11 @@
 <br>
 <h3> PHP</h3>
 <p> paste files in MAMP </p>
-<br><br>
+<br>
 <h3> Node JS </h3>
 <p> Import in VScode  </p>
 <p> Use npm to run: npm start </p>
-<br><br>
+<br>
 <h3> JAVA Spring Boot </h3>
 <p> Import in VS code </p>
 <p> Run using Tomcat </p>
