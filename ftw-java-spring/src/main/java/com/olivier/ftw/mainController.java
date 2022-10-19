@@ -31,7 +31,7 @@ public class mainController {
     {
         try {
             HttpHeaders headers = new HttpHeaders();
-            headers.set("Authorization", "Bearer FLWSECK_TEST-ca49929ae2c79e79ca6bd298569b6871-X");
+            headers.set("Authorization", "Bearer XXXXXX");
             HttpEntity<String> entity = new HttpEntity<String>(headers);
             RestTemplate restTemplate = new RestTemplate();
             ResponseEntity<Object> response = restTemplate.exchange("https://api.flutterwave.com/v3/transfers/"+id,
@@ -49,7 +49,7 @@ public class mainController {
        try {
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.APPLICATION_JSON);
-            headers.set("Authorization", "Bearer FLWSECK_TEST-ca49929ae2c79e79ca6bd298569b6871-X");
+            headers.set("Authorization", "Bearer XXXXXX");
             HttpEntity<String> entity = new HttpEntity<String>(payload, headers);
             RestTemplate restTemplate = new RestTemplate();
             ResponseEntity<Object> response = restTemplate.exchange("https://api.flutterwave.com/v3/transfers",

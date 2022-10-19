@@ -7,7 +7,7 @@ require_once "router.php";
 
 // function checking status of transfer
 function checkTransfer($idTrans) {
-    $headers = array("Authorization: Bearer FLWSECK_TEST-ca49929ae2c79e79ca6bd298569b6871-X");
+    $headers = array("Authorization: Bearer XXXXX");
     $ch = curl_init(); 
     curl_setopt($ch, CURLOPT_URL, "https://api.flutterwave.com/v3/transfers/".$idTrans); 
     curl_setopt($ch, CURLOPT_HTTPHEADER, $headers); 
@@ -18,7 +18,7 @@ function checkTransfer($idTrans) {
 
 // function for initiating transfer
 function makeTransfer($requestBody) {
-    $headers = array("Authorization: Bearer FLWSECK_TEST-ca49929ae2c79e79ca6bd298569b6871-X","Content-Type: application/json");
+    $headers = array("Authorization: Bearer XXXXX","Content-Type: application/json");
     $ch = curl_init(); 
     curl_setopt($ch, CURLOPT_URL, "https://api.flutterwave.com/v3/transfers"); 
     curl_setopt($ch, CURLOPT_HTTPHEADER, $headers); 

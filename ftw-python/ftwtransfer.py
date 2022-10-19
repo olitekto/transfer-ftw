@@ -9,8 +9,8 @@ application = app = Flask(__name__)
 api = Api(app)
 
 
-secret_key='FLWSECK_TEST-ca49929ae2c79e79ca6bd298569b6871-X'
-public_key='FLWPUBK_TEST-ba22d8d4e5e99c99b262e0200becf0c6-X'
+secret_key='XXX'
+public_key='XXX'
 
 
 
