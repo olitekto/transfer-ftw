@@ -17,7 +17,7 @@
 <p> Run using Tomcat </p>
 
 <h2> Usage </h2>
-<p> JSON POST payload for all languages </p>
+<p> JSON POST payload for all languages /n Sample:</p>
 {
 "account_bank": "044",
 "account_number": "0690000044",
@@ -29,33 +29,33 @@
 <h3> Python</h3>
 <b> Initiate transfer </b>
 <b> POST method </b>
-<p> [LOCALHOST+URL]/initiateTransfer </p>
+<p> [LOCALHOST:PORT]/initiateTransfer </p>
 <b> Check status transder </b>
 <b> GET method </b>
-<p> http://127.0.0.1:80/checkTransfer?id=9898 </p>
+<p> [LOCALHOST:PORT]/checkTransfer?id=9898 </p>
 
 <h3> Node JS </h3>
 <b> Initiate transfer </b>
 <b> POST method </b>
-<p> http://localhost:3000/initiateTransfer </p>
+<p> [LOCALHOST:PORT]/initiateTransfer </p>
 <b> Check status transder </b>
 <b> GET method </b>
-<p> http://localhost:3000/checkStatus?id=9898 </p>
+<p> [LOCALHOST:PORT]/checkStatus?id=9898 </p>
 
 <h3> PHP </h3>
 <b> Initiate transfer </b>
 <b> POST method </b>
-<p> http://localhost:8888/initiateTransfer </p>
+<p> [LOCALHOST:PORT]/initiateTransfer </p>
 <b> Check status transder </b>
 <b> GET method </b>
-<p> http://localhost:8888/checkStatus/4000 </p>
+<p> [LOCALHOST:PORT]/checkStatus/4000 </p>
 
 <h3> JAVA Spring Boot </h3>
 <b> Initiate transfer </b>
 <b> POST method </b>
-<p> http://localhost:8080/initiateTransfer </p>
+<p> [LOCALHOST:PORT]/initiateTransfer </p>
 <b> Check status transder </b>
 <b> GET method </b>
-<p> http://localhost:8080/checkStatus?id=9898 </p>
+<p> [LOCALHOST:PORT]/checkStatus?id=9898 </p>
 
 
