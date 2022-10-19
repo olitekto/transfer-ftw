@@ -17,6 +17,8 @@
 <p> Run using Tomcat </p>
 
 <h2> Usage </h2>
+
+<p> <b> Replace "XXX" with you Public Key </b> </p>
 <p> JSON POST payload for all languages /n Sample:</p>
 {
 "account_bank": "044",
