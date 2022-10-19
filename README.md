@@ -3,7 +3,6 @@
 <h2> Installations </h2>
 
 <h3> Python</h3>
-
 <p> Install dependencies using pip </p>
 <p> pip install -r requirements.txt </p>
 <p>Run in terminal : python3 ftwtransfer.py</p>
@@ -17,3 +16,9 @@
 <p> Import in VS code </p>
 <p> Run using Tomcat </p>
 
+<h2> Usage </h2>
+
+<h3> Python</h3>
+<b> Initiate transfer </b>
+<b> POST method </b>
+<p> http://127.0.0.1:80/initiateTransfer </p>
