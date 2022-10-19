@@ -6,6 +6,7 @@
 
 <p> Install dependencies using pip </p>
 <p> pip install -r requirements.txt </p>
+<p>Run in terminal : python3 ftwtransfer.py</p>
 <h3> PHP</h3>
 <p> paste files in MAMP </p>
 <h3> Node JS </h3>
