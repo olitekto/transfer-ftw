@@ -9,6 +9,7 @@
 <p>Run in terminal : python3 ftwtransfer.py</p>
 <h3> PHP</h3>
 <p> Paste files in MAMP htdocs folder </p>
+<p> Run using MAMP server </p>
 <h3> Node JS </h3>
 <p> Import in VScode  </p>
 <p> Use npm to run: npm start </p>
